@@ -1,0 +1,219 @@
+Canal,Fecha,descripcion,marca,type
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,675388,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,625824,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,649824,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,791005,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,659548,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,652709,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,657755,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,VA684977,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,656465,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",668446,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,668539,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,678130,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,681751,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,684409,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',658579,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,658301,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,671584,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,674427,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',670471,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',670473,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,671692,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,545989,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',674599,<class 'str'>
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,675388,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,625824,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,649824,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,791005,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,659548,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,652709,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,657755,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,VA684977,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,656465,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",668446,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,668539,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,678130,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,681751,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,684409,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',658579,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,658301,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,671584,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,674427,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',670471,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',670473,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,671692,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,545989,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',674599,<class 'str'>
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,675388,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,625824,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,649824,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,791005,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,659548,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,652709,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,657755,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,VA684977,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,656465,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",668446,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,668539,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,678130,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,681751,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,684409,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',658579,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,658301,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,671584,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,674427,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',670471,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',670473,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,671692,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,545989,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',674599,<class 'str'>
+Canal,Fecha,descripcion,marca,type
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,Danby,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,<class 'str'>
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,Danby,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,<class 'str'>
+Costco,15-04-2024,,,<class 'NoneType'>
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,<class 'str'>
+Costco,15-04-2024,Danby Congelador 10´,Danby,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,<class 'str'>
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,<class 'str'>
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,<class 'str'>
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,<class 'str'>
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,<class 'str'>
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,<class 'str'>
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,<class 'str'>
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,<class 'str'>
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,<class 'str'>
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,<class 'str'>
+Canal,Fecha,descripcion,marca,precio
+Costco,15-04-2024,,,
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,"$4,599.00"
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,"$27,999.00"
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,"$39,999.00"
+Costco,15-04-2024,Danby Congelador 10´,Danby,"$6,999.00"
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,"$18,999.00"
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,"$20,999.00"
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,"$79,999.00"
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,"$1,899.00"
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,"$27,999.00"
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,"$34,499.00"
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,"$47,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,"$25,499.00"
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,"$34,999.00"
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,"$42,999.00"
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,"$89,999.00"
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,"$56,999.00"
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,"$56,999.00"
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,"$37,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,"$11,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,"$14,499.00"
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,"$35,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,"$109,999.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,"$18,499.00"
+Costco,15-04-2024,,,
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,"$4,599.00"
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,"$27,999.00"
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,"$39,999.00"
+Costco,15-04-2024,Danby Congelador 10´,Danby,"$6,999.00"
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,"$18,999.00"
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,"$20,999.00"
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,"$79,999.00"
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,"$1,899.00"
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,"$27,999.00"
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,"$34,499.00"
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,"$47,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,"$25,499.00"
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,"$34,999.00"
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,"$42,999.00"
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,"$89,999.00"
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,"$56,999.00"
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,"$56,999.00"
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,"$37,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,"$11,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,"$14,499.00"
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,"$35,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,"$109,999.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,"$18,499.00"
+Costco,15-04-2024,,,
+Costco,15-04-2024,Dace Refrigerador 7' ,Dace,"$4,599.00"
+Costco,15-04-2024,LG Refrigerador 22' French Door con Dispensador de agua,LG,"$27,999.00"
+Costco,15-04-2024,Maytag Refrigerador 25' French Door,Maytag,"$39,999.00"
+Costco,15-04-2024,Danby Congelador 10´,Danby,"$6,999.00"
+Costco,15-04-2024,LG Refrigerador 20' Top Mount Multi-Air Flow,LG,"$18,999.00"
+Costco,15-04-2024,Maytag Refrigerador 21' Top Mount,Maytag,"$20,999.00"
+Costco,15-04-2024,LG Refrigerador 30' Instaview Door-in-Door,LG,"$79,999.00"
+Costco,15-04-2024,Samsung Paneles Bespoke Varios Modelos ,Samsung,"$1,899.00"
+Costco,15-04-2024,LG Refrigerador 25' French Door Door Cooling,LG,"$27,999.00"
+Costco,15-04-2024,"LG Refrigerador 22' Duplex Door in Door, Door Cooling",LG,"$34,499.00"
+Costco,15-04-2024,LG Refrigerador 27´Duplex Instaview Door in Door con Dispensador de agua,LG,"$47,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador 25' 7WRS25SDHM,Whirlpool,"$25,499.00"
+Costco,15-04-2024,Samsung Refrigerador de 32´ French Door con Centro de Bebidas ,Samsung,"$34,999.00"
+Costco,15-04-2024,Refrigerador Bespoke 32' French Door,Refrigerador,"$42,999.00"
+Costco,15-04-2024,KitchenAid Refrigerador French Door 27',KitchenAid,"$89,999.00"
+Costco,15-04-2024,Samsung Refrigerador 27' Family Hub,Samsung,"$56,999.00"
+Costco,15-04-2024,Smeg Refrigerador 22' French Door,Smeg,"$56,999.00"
+Costco,15-04-2024,LG Refrigerador 28' French Door Door Cooling,LG,"$37,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 7',Whirlpool,"$11,499.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 11',Whirlpool,"$14,499.00"
+Costco,15-04-2024,LG Refrigerador 27' Duplex con Dispensador de agua,LG,"$35,999.00"
+Costco,15-04-2024,Whirlpool Refrigerador y congelador de 18´ sidekicks,Whirlpool,"$109,999.00"
+Costco,15-04-2024,Whirlpool Congelador horizontal 15',Whirlpool,"$18,499.00"
